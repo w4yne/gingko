@@ -1,8 +1,8 @@
 # gingko
 ======
 
-最新代码仓库地址：https://github.com/gko3
-docker编译依赖镜像地址：https://hub.docker.com/r/csuliuming/gko3-compile-env/ 
+* 最新代码仓库地址：https://github.com/gko3
+* docker编译依赖镜像地址：https://hub.docker.com/r/csuliuming/gko3-compile-env/ 
 
 ## gingko简介
 <img src="bbts.jpg" alt="bbts" width="100%" /></br>
